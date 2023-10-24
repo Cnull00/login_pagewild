@@ -18,13 +18,13 @@ if (!isset($_SESSION["username"])) {
 
 // Konfigurasi koneksi ke database
 
-$servername = "mysql-141993-0.cloudclusters.net:12570";
+$servername = "";
 
-$username_db = "admin";
+$username_db = "";
 
-$password_db = "zC2FMinr";
+$password_db = "";
 
-$dbname = "datashell";
+$dbname = "";
 
 
 
